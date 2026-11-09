@@ -1,6 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.2/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "type": "AppSource App",
-  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@v9.2",
-  "MicrosoftTelemetryConnectionString": ""
+  "templateUrl": "https://github.com/businesscentralapps/tmpWnfEPT-AppSource@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "ffff3041f4563c16bf58232e7e6b5b2bd6656a15"
 }
